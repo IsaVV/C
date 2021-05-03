@@ -1,3 +1,3 @@
 # C
 
-Alguns exercícios feitos em C
+exercíciosem C
