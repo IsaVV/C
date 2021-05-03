@@ -1,3 +1,3 @@
 # C
 
-exercíciosem C
+exercícios em C
